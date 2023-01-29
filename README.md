@@ -32,3 +32,5 @@
 
 
 <h5>“O mundo tinha pressa, mas eu esperei pra ser perfeito.”<h5>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbsoficial)](https://github.com/anuraghazra/github-readme-stats)
